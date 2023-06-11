@@ -32,11 +32,15 @@
 
 ## Input:
 
+![241556891-29856dcc-ffb6-45d7-bafa-62f727c72854](https://github.com/S-ARVIND01/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707337/3ce225fc-0d04-4d09-b362-e76401a95f6b)
+
 ### Output:
 
+![EX 10](https://github.com/S-ARVIND01/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707337/0aa3e4f8-e16d-41c3-a93d-6204927abccc)
 
-### Name:
-### Register Number:
+
+### Name: S ARVIND
+### Register Number: 212222240012
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
